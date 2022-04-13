@@ -8,7 +8,9 @@
 
 ### Github Stats :bar_chart:
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ShubhamYGS&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ShubhamYGS&show_icons=true&theme=nightowl)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhamygs&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
 
 ### Let's Connect :handshake:
 
